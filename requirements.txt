@@ -1,0 +1,5 @@
+chromedriver
+selenium
+python-telegram-bot
+python-dateutil
+urllib3
